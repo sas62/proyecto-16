@@ -1,2 +1,1 @@
-# proyecto-16
-proyecto 16 de ByJus
+# Plantilla-del-proyecto-C16
